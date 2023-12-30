@@ -6,13 +6,9 @@ It uses 2d graphics and sprites in a 3d environment with orthographic view to ma
 
 *Insert description of the gif right here*
 
-
-
 As you can see it's not finished
 i'll keep updating this as it goes
-
 In the meantime you can download some of the demos I'll be releasing
-
 They'll test different parts of the game
 
 Think of this project as a mix with Minecraft and Terraria with Zelda-like gameplay and a whole bunch more. 
